@@ -34,7 +34,7 @@ Techniques: `LAG(Revenue, 12)` for same-month prior year comparison
 Which countries generate the most revenue, and what share of total does each contribute?
 
 Techniques: `SUM() OVER ()` for percentage of total, `DENSE_RANK()`
-![Q3](screenshots/03_Revenue_Contribution_by_Country____.png)
+![Q3](screenshots/03_Revenue_Contribution_by_Country.png)
 
 ---
 
