@@ -8,7 +8,11 @@ End-to-end business analysis project using SQL (Microsoft SQL Server) and Tablea
 
 ## Dataset
 
-**AdventureWorks** — Microsoft's open sample database simulating a bicycle manufacturer's sales operations. Includes internet sales transactions, product catalog, customer demographics, and geography data spanning 2011–2014.
+**AdventureWorksDW2022** — Microsoft's open data warehouse sample 
+database. Includes internet sales transactions, product catalog, 
+customer demographics, and geography data spanning 2011–2014.
+
+Download: [AdventureWorksDW2022.bak](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
 
 ---
 
